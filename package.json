@@ -1,0 +1,16 @@
+{
+  "name": "03-2023-osra-backend",
+  "version": "1.0.0",
+  "description": "```\r node server.js\r ```",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^10.5.0",
+    "websocket": "^1.0.34"
+  }
+}
